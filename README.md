@@ -27,8 +27,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## Notes
 Adding the final Button. How to do it initially was a bit tough, But Chat GPT is a great resource.
 ## License
